@@ -11,7 +11,7 @@ This project performs customer segmentation using clustering techniques. The goa
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Scikit-learn (K-Means, DBSCAN, etc.)
+- Scikit-learn (K-Means)
 
 ## Steps Involved
 1. **Data Preprocessing**: Handling missing values, scaling features.
